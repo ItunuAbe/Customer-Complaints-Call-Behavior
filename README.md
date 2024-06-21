@@ -26,27 +26,37 @@ In the phase I explored to understand the patterns and trends within the dataset
 
 I visualized the follow-up calls for the next 6 days after the first contact day with Card Chart, showing the volume and percentage of the total. Approximately 9% of the callers called back one day after the initial call, 5% called back 2 days after, and 3% called back after 6 days.
 
+
 ![Screenshot (102)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/3b18711c-1bb7-47ae-849c-49718eec361f)
+
 
 Drilling down by service center, centre_1 support desk received 45,333 calls on the initial contact day and approximately 7% called back the next day on the same issue. centre_2 generated a total call of 4,389 on the initial contact day and 6% of the customers called back one day after on the same issue. centre_3 received 15,217 calls on the initial contact day and approximately 13% of the customer called back the next day on the same issue.
 
 ![Screenshot (103)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/4a864ed8-3e2c-4f0b-a85c-4fa8e910ec5d)
 
+
 ![Screenshot (104)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/fad51b28-e7e8-4756-a4ff-d3492889c47d)
 
+
 ![Screenshot (105)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/16970f1d-3fc3-4e4f-b0fb-293edf2d5e73)
+
 
 The complaint/Issue category was visualized using a Bar Chart, the analysis shows Technician Troubleshooting and Internet & Wifi issues generated the highest number of calls. The Construction issue category has the least volume.
 
 ![Screenshot (102)c](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/533ec50a-5eb0-42a6-8d8e-cca0f8bf4a95)
 
+
 ![Screenshot (106)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/0440c3e5-86eb-4482-8303-b63a8ac51623)
+
 
 ![Screenshot (107)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/0e377169-9b40-4d1c-8ab4-b9c3a4b02522)
 
+
 Using a pie Chart, I analyzed the service centers by call volume, centre_1 generated approximately 70% of the total of calls, centre_3 generated 23%, and centre_2 generated just 7%. 
 
+
 ![Screenshot (102)a](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/6eec0412-4ca7-45c9-a574-423f56aaa44e)
+
 
 ## Recommendation
 
