@@ -32,30 +32,27 @@ I visualized the follow-up calls for the next 6 days after the first contact day
 
 Drilling down by service center, centre_1 support desk received 45,333 calls on the initial contact day and approximately 7% called back the next day on the same issue. centre_2 generated a total call of 4,389 on the initial contact day and 6% of the customers called back one day after on the same issue. centre_3 received 15,217 calls on the initial contact day and approximately 13% of the customer called back the next day on the same issue.
 
-![Screenshot (103)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/4a864ed8-3e2c-4f0b-a85c-4fa8e910ec5d)
+![Screenshot (103)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/cb17bf2c-0cfa-4f5c-ba23-397b422a4c90)
 
 
-![Screenshot (104)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/fad51b28-e7e8-4756-a4ff-d3492889c47d)
+![Screenshot (104)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/90535312-f6bc-4350-8d32-be256d4325de)
 
 
-![Screenshot (105)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/16970f1d-3fc3-4e4f-b0fb-293edf2d5e73)
+![Screenshot (105)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/345be00f-3805-4341-a843-b30fcf07ca7b)
+
 
 
 The complaint/Issue category was visualized using a Bar Chart, the analysis shows Technician Troubleshooting and Internet & Wifi issues generated the highest number of calls. The Construction issue category has the least volume.
 
-![Screenshot (102)c](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/533ec50a-5eb0-42a6-8d8e-cca0f8bf4a95)
 
+![Screenshot (102)c](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/f283d6ec-3649-4c3b-b366-1b3b2cbee920)
 
-![Screenshot (106)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/0440c3e5-86eb-4482-8303-b63a8ac51623)
-
-
-![Screenshot (107)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/0e377169-9b40-4d1c-8ab4-b9c3a4b02522)
 
 
 Using a pie Chart, I analyzed the service centers by call volume, centre_1 generated approximately 70% of the total of calls, centre_3 generated 23%, and centre_2 generated just 7%. 
 
 
-![Screenshot (102)a](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/6eec0412-4ca7-45c9-a574-423f56aaa44e)
+![Screenshot (102)a](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/76e0a9a5-1602-4ebf-af4d-4890ad63296b)
 
 
 ## Recommendation
@@ -65,3 +62,10 @@ Using a pie Chart, I analyzed the service centers by call volume, centre_1 gener
 •	It is recommended that the stakeholders invest in new technologies to optimize the internet & wifi service. This will increase customer satisfaction and loyalty.
 
 •	More investigation is required on service centre_3, to know the reason for generating the highest percentage of repeat calls, despite receiving less service centre_1.
+
+## Usage
+
+This notebook contains the explanation and interpretation of the data
+
+The Tableau link can be use to interact with data visual.
+https://public.tableau.com/app/profile/abe.itunu/viz/CustomerComplaintsAnalysisGoogleFibreCaseStudy/Dashboard2
