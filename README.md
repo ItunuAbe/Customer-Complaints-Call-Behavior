@@ -20,17 +20,36 @@ Since the data provided were already cleaned, no missing values, outliers, dupli
 
 ## Exploratory Data Analysis
 
-In the phase I explored to understand the patterns and trends within the dataset to derive meaningful insights, I focused on various aspects such as the repeat call trend, the issue category that generates the highest number of calls, and the service center with the highest volume of repeat calls.
+To uncover patterns and operational pain points within the dataset, I conducted a detailed exploratory analysis focusing on call volume trends, repeat call behavior, issue categories, and service center performance.
 
-## Insights
+## Key Areas Explored
 
-I visualized the follow-up calls for the next 6 days after the first contact day with Card Chart, showing the volume and percentage of the total. Approximately 9% of the callers called back one day after the initial call, 5% called back 2 days after, and 3% called back after 6 days.
+#### Repeat Call Trends
+Using a card chart, I analyzed follow-up calls within 6 days of the initial contact. The data revealed that:
+
+9% of customers placed a repeat call the very next day
+
+5% followed up after 2 days
+
+3% returned after 6 days
+
+These trends suggest a significant portion of customers require follow-up, particularly within the first day, indicating potential issues with first-call resolution.
 
 
 ![Screenshot (102)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/3b18711c-1bb7-47ae-849c-49718eec361f)
 
+#### Service Center Comparison
+Drilling down by service center:
 
-Drilling down by service center, centre_1 support desk received 45,333 calls on the initial contact day and approximately 7% called back the next day on the same issue. centre_2 generated a total call of 4,389 on the initial contact day and 6% of the customers called back one day after on the same issue. centre_3 received 15,217 calls on the initial contact day and approximately 13% of the customer called back the next day on the same issue.
+Centre_1 handled the highest volume, receiving 45,333 calls on initial contact days, with a 7% repeat rate
+
+Centre_2 recorded 4,389 calls, with 6% repeating the next day
+
+Centre_3 received 15,217 calls, with a concerning 13% repeat rate—the highest among the three.
+
+This indicates that Centre_3 may benefit from deeper quality assurance reviews or resource reallocation. Also, The higher follow-up rate warrants further investigation into their processes or the types of issues they handle.
+
+
 
 ![Screenshot (103)](https://github.com/ItunuAbe/Customer-Complaints-Call-Behavior/assets/110028869/cb17bf2c-0cfa-4f5c-ba23-397b422a4c90)
 
